@@ -29,10 +29,10 @@ pip install opencv-python
 
 ## **Usage**
 ### **1️⃣ Encrypt a Message into an Image**
-Run the `1_Encrypt.py` script:
+Run the `1_Encryption.py` script:
 
 ```bash
-python 1_Encrypt.py
+python 1_Encryption.py
 ```
 
 📌 **Inputs:**  
@@ -46,10 +46,10 @@ python 1_Encrypt.py
 ---
 
 ### **2️⃣ Decrypt the Message from an Image**
-Run the `2_Decrypt.py` script:
+Run the `2_Decryption.py` script:
 
 ```bash
-python 2_Decrypt.py
+python 2_Decryption.py
 ```
 
 📌 **Inputs:**  
