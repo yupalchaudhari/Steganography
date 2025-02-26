@@ -41,7 +41,7 @@ python encrypt.py
 - **Passcode:** Set a password for decryption  
 
 📌 **Output:**  
-- An encrypted image `encryptedImage.png` will be created.  
+- An encrypted image `your_encrypted_image.png` will be created.  
 
 ---
 
@@ -53,7 +53,7 @@ python decrypt.py
 ```
 
 📌 **Inputs:**  
-- The encrypted image (`encryptedImage.png`)  
+- The encrypted image (`your_encrypted_image.png`)  
 - The correct passcode  
 
 📌 **Output:**  
@@ -94,6 +94,6 @@ This method **modifies the entire pixel channel values** instead of using tradit
 ---
 
 ## **Contributors**
-👨‍💻 **[Your Name]**  
+👨‍💻 **[Yupal_Chaudhari]**  
 Feel free to contribute and improve this project! 🚀
 
