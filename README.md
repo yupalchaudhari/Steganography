@@ -94,6 +94,6 @@ This method **modifies the entire pixel channel values** instead of using tradit
 ---
 
 ## **Contributors**
-👨‍💻 **[Yupal_Chaudhari]**  
+👨‍💻 **Yupal_Chaudhari**  
 Feel free to contribute and improve this project! 🚀
 
